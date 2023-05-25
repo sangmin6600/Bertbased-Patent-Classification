@@ -1,6 +1,14 @@
 # Bert-based Patent Classification
 
-One Paragraph of project description goes here
+This project aims to output International Patent Classification (IPC) for text input. To extract and classify features of documents, I used an improved multilingual BERT model, xlm-roberta, and tested it in the following environment.
+
+ - python 3.8.10
+ - cuda 11.8
+ - torch 2.0
+ - transformers 4.29.2
+ - scikit-learn 1.2.2
+
+<!-- gif -->
 
 ## Getting Started
 
