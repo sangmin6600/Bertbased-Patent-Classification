@@ -21,17 +21,19 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-pip install -r requirements.txt
+$python -m venv venv_name
+$. ./venv_name/bin/activate
+$pip install -r requirements.txt
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+EDA and Data preprocessing
 
 ```
-Give the example
+
 ```
 
 And repeat
