@@ -7,6 +7,7 @@ This project aims to output International Patent Classification (IPC) for text i
  - torch 1.8
  - transformers 4.29.2
  - scikit-learn 1.2.2
+ - matplotlib
 
 <!-- gif -->
 
@@ -20,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+pip install -r requirements.txt
 ```
 
 ### Installing
