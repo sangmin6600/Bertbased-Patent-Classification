@@ -30,17 +30,13 @@ $pip install -r requirements.txt
 
 A step by step series of examples that tell you how to get a development env running
 
-EDA and Data preprocessing
+#### EDA and Data preprocessing
 
-```
+In the EDA_with_preprocess.ipynb file, perform Exploratory Data Analysis (EDA) and data preprocessing step by step, and save the processed data file in "./data/".
 
-```
+#### Train and Validation
 
-And repeat
-
-```
-until finished
-```
+All processes related to model training and evaluation are included in the "main.ipynb" file.
 
 End with an example of getting some data out of the system or using it for a little demo
 
