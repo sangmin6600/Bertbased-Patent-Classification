@@ -38,8 +38,6 @@ In the EDA_with_preprocess.ipynb file, perform Exploratory Data Analysis (EDA) a
 
 All processes related to model training and evaluation are included in the "main.ipynb" file.
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
 Explain how to run the automated tests for this system
